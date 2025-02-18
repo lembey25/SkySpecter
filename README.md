@@ -1,2 +1,1 @@
-# SkySpecter
-A mod for MSFS 2020 and 2024. that adds a Chaff Flare and Smoke system server side
+This mod adds Chaffs, Flares and wingsmoke for airshows that everyone can see who has the mod
